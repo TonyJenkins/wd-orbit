@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee|Indie+Flower');
+
+h1 {
+    font-family: Bungee, cursive;
+}
+
+h3 {
+    font-family: Bungee, cursive;
+}
+
+p {
+    font-family: 'Indie Flower', cursive;
+}
+
+figcaption {
+    font-family: Bungee, cursive;
+}
+
+.slide-text {
+    font-size: 125%;
+}
